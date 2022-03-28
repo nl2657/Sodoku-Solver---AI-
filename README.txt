@@ -1,0 +1,11 @@
+Nicholas Lillis
+nl2657
+March 9, 2021
+
+Solved all 400/400 board
+
+Total Time: 90
+AVERAGE: 0.2076991153
+STDEV: 	 0.3115378613
+MAX:	 2.559128046
+MIN:	 0.01038002968 
